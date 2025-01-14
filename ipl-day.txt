@@ -1,5 +1,5 @@
 #lang id="Hindi" m3u8="https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
-#lang id="English" m3u8="https://cdn.pixabay.com/video/2020/01/04/30870-382770842_large.mp4"
+#lang id="English" m3u8="http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/index.m3u8"
 
 #angle name="Main Cam" m3u8="https://cdn.pixabay.com/video/2023/05/19/163784-828705241_large.mp4"
 #angle name="Spidy Cam" m3u8="https://cdn.pixabay.com/video/2020/05/30/40604-426174976_large.mp4"
