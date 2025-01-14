@@ -1,6 +1,6 @@
-#lang id="Hindi" m3u8="https://dai.fancode.com/primary/116243_english_hls_5444ta-di/index.m3u8"
-#lang id="English" m3u8="https://dai.fancode.com/primary/116776_english_hls_6273ta-di/index.m3u8"
+#lang id="Hindi" m3u8="https://cdn.pixabay.com/video/2022/10/09/134111-758552424_large.mp4"
+#lang id="English" m3u8="https://cdn.pixabay.com/video/2023/07/31/174071-850361338_large.mp4"
 
-#angle name="Main Cam" m3u8="https://dai.fancode.com/primary/116243_english_hls_5444ta-di/index.m3u8"
-#angle name="Spidy Cam" m3u8="https://dai.fancode.com/primary/116776_english_hls_6273ta-di/index.m3u8"
-#angle name="Stump Cam" m3u8="https://dai.fancode.com/primary/116243_english_hls_5444ta-di/index.m3u8"
+#angle name="Main Cam" m3u8="https://media.istockphoto.com/id/180398158/video/spaceship-cockpit-warp-speed.mp4?s=mp4-640x640-is&k=20&c=ZRxcqsmKFHXGAZbd2Ajg2Xn76QVQIDRoC31M2bDu0p4="
+#angle name="Spidy Cam" m3u8="https://cdn.pixabay.com/video/2019/01/04/20454-309694522_large.mp4"
+#angle name="Stump Cam" m3u8="https://cdn.pixabay.com/video/2020/02/27/32945-395456395_large.mp4"
