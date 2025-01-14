@@ -1,4 +1,4 @@
-#lang id="Hindi" m3u8="https://cdn.pixabay.com/video/2020/08/23/47901-452154275_large.mp4"
+#lang id="Hindi" m3u8="https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
 #lang id="English" m3u8="https://cdn.pixabay.com/video/2020/01/04/30870-382770842_large.mp4"
 
 #angle name="Main Cam" m3u8="https://cdn.pixabay.com/video/2023/05/19/163784-828705241_large.mp4"
