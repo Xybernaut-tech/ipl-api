@@ -1,8 +1,6 @@
-#lang id="Hindi" m3u8=""
-#lang id="English" m3u8=""
+#lang id="Hindi" m3u8="https://dai.fancode.com/primary/114484_english_hls_5391ta-di/index.m3u8"
+#lang id="English" m3u8="https://dai.fancode.com/primary/116776_english_hls_6273ta-di/index.m3u8"
 
-#angle name="" m3u8=""
-#angle name="" m3u8=""
-#angle name="" m3u8=""
-#angle name="" m3u8=""
-#angle name="" m3u8=""
+#angle name="Main Cam" m3u8="https://dai.fancode.com/primary/116776_english_hls_6273ta-di/index.m3u8"
+#angle name="Spidy Cam" m3u8="https://dai.fancode.com/primary/109403_english_hls_5473ta-no/index.m3u8"
+#angle name="Stump Cam" m3u8="https://dai.fancode.com/primary/114484_english_hls_5391ta-di/index.m3u8"
