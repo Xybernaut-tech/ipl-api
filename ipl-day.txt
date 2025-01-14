@@ -1,6 +1,6 @@
-#lang id="Hindi" m3u8="https://dai.fancode.com/primary/116243_english_hls_5444ta-di/index.m3u8"
-#lang id="English" m3u8="https://dai.fancode.com/primary/116776_english_hls_6273ta-di/index.m3u8"
+#lang id="Hindi" m3u8="https://cdn.pixabay.com/video/2020/08/23/47901-452154275_large.mp4"
+#lang id="English" m3u8="https://cdn.pixabay.com/video/2020/01/04/30870-382770842_large.mp4"
 
-#angle name="Main Cam" m3u8="https://dai.fancode.com/primary/116243_english_hls_5444ta-di/index.m3u8"
-#angle name="Spidy Cam" m3u8="https://dai.fancode.com/primary/116776_english_hls_6273ta-di/index.m3u8"
-#angle name="Stump Cam" m3u8="https://dai.fancode.com/primary/116243_english_hls_5444ta-di/index.m3u8"
+#angle name="Main Cam" m3u8="https://cdn.pixabay.com/video/2023/05/19/163784-828705241_large.mp4"
+#angle name="Spidy Cam" m3u8="https://cdn.pixabay.com/video/2020/05/30/40604-426174976_large.mp4"
+#angle name="Stump Cam" m3u8="https://cdn.pixabay.com/video/2020/05/22/39802-424022749_large.mp4"
