@@ -1,7 +1,9 @@
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>JW Player</title>
+  <title>Join @Axtream_Bingewav</title>
   <link rel="stylesheet" href="https://cxh.pages.dev/style.css">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,78 +25,51 @@
       max-height: 100%;
     }
 
-    #popup {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.8);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
 
-    .popup-content {
-      background-color: #222;
-      color: white;
-      padding: 20px;
-      text-align: center;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      width: 300px;
-    }
-
-    .popup-content h2 {
-      margin: 0 0 10px;
-      color: #ff0000;
-    }
-
-    .popup-content p {
-      margin: 0 0 20px;
-    }
-
-    .popup-content button {
-      width: 100%;
-      padding: 10px;
-      margin-top: 10px;
-      border: none;
-      border-radius: 5px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-
-    .popup-content .join-btn {
-      background-color: #ff0000;
-      color: white;
-    }
-
-    .popup-content .close-btn {
-      background-color: #555;
-      color: white;
-    }
   </style>
 </head>
 <body>
-  <div id="jwplayerDiv"></div>
+  <div id="player"></div>
   <script>
     // Function to get query parameter by name
     function getQueryParameter(name) {
-      const urlParams = new URLSearchParams(window.location.search); // Parse query string
-      return urlParams.get(name); // Get the value of the specified parameter
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(name);
     }
 
-    // Get the file location from the query string
-    const fileToPlay = getQueryParameter('q');
+    // Function to decode the query parameter using substitution cipher
+    function decodeCipher(input) {
+      if (!input) return '';
+      const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+      const reverseAlphabet = alphabet.split('').reverse().join(''); // Reverse alphabet
+
+      return input
+        .split('')
+        .map(char => {
+          const isUpperCase = char === char.toUpperCase();
+          const lowerChar = char.toLowerCase();
+
+          if (alphabet.includes(lowerChar)) {
+            const decodedChar = reverseAlphabet[alphabet.indexOf(lowerChar)];
+            return isUpperCase ? decodedChar.toUpperCase() : decodedChar;
+          }
+
+          return char; // Keep non-alphabet characters unchanged
+        })
+        .join('');
+    }
+
+    // Get the encoded file name from the URL
+    const encodedFile = getQueryParameter('q');
+    const decodedFile = decodeCipher(encodedFile); // Decode the file name
 
     // Redirect if no file is specified
-    if (!fileToPlay) {
+    if (!decodedFile) {
       window.location.href = "?q=https://cdn.pixabay.com/video/2022/03/06/109913-685705875_large.mp4";
     } else {
       // Initialize JW Player
-      jwplayer("jwplayerDiv").setup({
-        file: fileToPlay,
+      jwplayer("player").setup({
+        file: decodedFile,
         autostart: true,
         stretching: "uniform",
         width: "100%",
@@ -108,7 +83,7 @@
       popup.style.display = 'none';
     }
   </script>
-
-
+  <script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool'></script>
+  <script src="script.js"></script>
 </body>
 </html>
