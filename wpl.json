@@ -69,97 +69,97 @@
         },
         {
             "match_no": "9",
-            "team1": "Pakistan",
-            "team2": "Bangladesh",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "UP Warriorz",
             "date": "24-02-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "10",
-            "team1": "Royal Challengers Bengaluru",
-            "team2": "UP Warriorz",
+            "team1": "Delhi Capitals",
+            "team2": "Gujarat Giants",
             "date": "25-02-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "11",
-            "team1": "South Africa",
-            "team2": "England",
+            "team1": "Mumbai Indians",
+            "team2": "UP Warriorz",
             "date": "26-02-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "12",
-            "team1": "New Zealand",
-            "team2": "India",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Gujarat Giants",
             "date": "27-02-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "13",
-            "team1": "TBC",
-            "team2": "TBC",
+            "team1": "Delhi Capitals",
+            "team2": "Mumbai Indians",
             "date": "28-02-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "14",
-            "team1": "TBC",
-            "team2": "New Zealand",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Delhi Capitals",
             "date": "01-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "15",
-            "team1": "TBC",
-            "team2": "TBC",
+            "team1": "UP Warriorz",
+            "team2": "Gujarat Giants",
             "date": "03-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "16",
-            "team1": "TBC",
-            "team2": "TBC",
-            "date": "03-03-2025",
+            "team1": "UP Warriorz",
+            "team2": "Mumbai Indians",
+            "date": "06-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "17",
-            "team1": "TBC",
-            "team2": "TBC",
-            "date": "03-03-2025",
+            "team1": "Gujarat Giants",
+            "team2": "Delhi Capitals",
+            "date": "07-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "18",
-            "team1": "TBC",
-            "team2": "TBC",
-            "date": "03-03-2025",
+            "team1": "UP Warriorz",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "08-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "19",
-            "team1": "TBC",
-            "team2": "TBC",
-            "date": "03-03-2025",
+            "team1": "Mumbai Indians",
+            "team2": "Gujarat Giants",
+            "date": "10-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
         {
             "match_no": "20",
-            "team1": "TBC",
-            "team2": "TBC",
-            "date": "03-03-2025",
+            "team1": "Mumbai Indians",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "11-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
@@ -167,7 +167,7 @@
             "match_no": "21",
             "team1": "TBC",
             "team2": "TBC",
-            "date": "03-03-2025",
+            "date": "13-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         },
@@ -175,7 +175,7 @@
             "match_no": "22",
             "team1": "TBC",
             "team2": "TBC",
-            "date": "03-03-2025",
+            "date": "15-03-2025",
             "start_time": "18:25",
             "end_time": "23:30"
         }
