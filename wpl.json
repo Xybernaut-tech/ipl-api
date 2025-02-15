@@ -10,7 +10,7 @@
             "date": "14-02-2025",
             "start_time": "18:25",
             "venue": "Vadodara",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "2",
@@ -19,7 +19,7 @@
             "date": "15-02-2025",
             "start_time": "18:25",
             "venue": "Vadodara",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "3",
@@ -28,7 +28,7 @@
             "date": "16-02-2025",
             "start_time": "18:25",
             "venue": "Vadodara",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "4",
@@ -37,7 +37,7 @@
             "date": "17-02-2025",
             "start_time": "18:25",
             "venue": "Vadodara",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "5",
@@ -46,7 +46,7 @@
             "date": "18-02-2025",
             "start_time": "18:25",
             "venue": "Vadodara",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "6",
@@ -55,7 +55,7 @@
             "date": "19-02-2025",
             "start_time": "18:25",
             "venue": "Vadodara",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "7",
@@ -64,7 +64,7 @@
             "date": "21-02-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "8",
@@ -73,7 +73,7 @@
             "date": "22-02-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "9",
@@ -82,7 +82,7 @@
             "date": "24-02-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "10",
@@ -91,7 +91,7 @@
             "date": "25-02-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "11",
@@ -100,7 +100,7 @@
             "date": "26-02-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "12",
@@ -109,7 +109,7 @@
             "date": "27-02-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "13",
@@ -118,7 +118,7 @@
             "date": "28-02-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "14",
@@ -127,7 +127,7 @@
             "date": "01-03-2025",
             "start_time": "18:25",
             "venue": "Bengaluru",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "15",
@@ -136,7 +136,7 @@
             "date": "03-03-2025",
             "start_time": "18:25",
             "venue": "Lucknow",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "16",
@@ -145,7 +145,7 @@
             "date": "06-03-2025",
             "start_time": "18:25",
             "venue": "Lucknow",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "17",
@@ -154,7 +154,7 @@
             "date": "07-03-2025",
             "start_time": "18:25",
             "venue": "Lucknow",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "18",
@@ -163,7 +163,7 @@
             "date": "08-03-2025",
             "start_time": "18:25",
             "venue": "Lucknow",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "19",
@@ -172,7 +172,7 @@
             "date": "10-03-2025",
             "start_time": "18:25",
             "venue": "Mumbai-CCI",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "20",
@@ -181,7 +181,7 @@
             "date": "11-03-2025",
             "start_time": "18:25",
             "venue": "Mumbai-CCI",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "21",
@@ -190,7 +190,7 @@
             "date": "13-03-2025",
             "start_time": "18:25",
             "venue": "Mumbai-CCI",
-            "end_time": "23:30"
+            "end_time": "23:50"
         },
         {
             "match_no": "22",
@@ -199,7 +199,7 @@
             "date": "15-03-2025",
             "start_time": "18:25",
             "venue": "Mumbai-CCI",
-            "end_time": "23:30"
+            "end_time": "23:50"
         }
     ]
 }
