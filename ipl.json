@@ -1,0 +1,744 @@
+{
+    "matches": [
+        {
+            "match_no": "1",
+            "team1": "Kolkata Knight Riders",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "22-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "269259"
+        },
+        {
+            "match_no": "2",
+            "team1": "Sunrisers Hyderabad",
+            "team2": "Rajasthan Royals",
+            "date": "23-03-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "192736"
+        },
+        {
+            "match_no": "3",
+            "team1": "Chennai Super Kings",
+            "team2": "Mumbai Indians",
+            "date": "23-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Chennai",
+            "id": "384512"
+        },
+        {
+            "match_no": "4",
+            "team1": "Delhi Capitals",
+            "team2": "Lucknow Super Giants",
+            "date": "24-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Visakhapatnam",
+            "id": "475839"
+        },
+        {
+            "match_no": "5",
+            "team1": "Gujarat Titans",
+            "team2": "Punjab Kings",
+            "date": "25-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Ahmedabad",
+            "id": "562718"
+        },
+        {
+            "match_no": "6",
+            "team1": "Rajasthan Royals",
+            "team2": "Kolkata Knight Riders",
+            "date": "26-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Guwahati",
+            "id": "639284"
+        },
+        {
+            "match_no": "7",
+            "team1": "Sunrisers Hyderabad",
+            "team2": "Lucknow Super Giants",
+            "date": "27-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "728491"
+        },
+        {
+            "match_no": "8",
+            "team1": "Chennai Super Kings",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "28-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Chennai",
+            "id": "815376"
+        },
+        {
+            "match_no": "9",
+            "team1": "Gujarat Titans",
+            "team2": "Mumbai Indians",
+            "date": "29-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Ahmedabad",
+            "id": "924683"
+        },
+        {
+            "match_no": "10",
+            "team1": "Delhi Capitals",
+            "team2": "Sunrisers Hyderabad",
+            "date": "30-03-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Visakhapatnam",
+            "id": "103847"
+        },
+        {
+            "match_no": "11",
+            "team1": "Rajasthan Royals",
+            "team2": "Chennai Super Kings",
+            "date": "30-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Guwahati",
+            "id": "112956"
+        },
+        {
+            "match_no": "12",
+            "team1": "Mumbai Indians",
+            "team2": "Kolkata Knight Riders",
+            "date": "31-03-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Mumbai",
+            "id": "123847"
+        },
+        {
+            "match_no": "13",
+            "team1": "Lucknow Super Giants",
+            "team2": "Punjab Kings",
+            "date": "01-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Lucknow",
+            "id": "132758"
+        },
+        {
+            "match_no": "14",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Gujarat Titans",
+            "date": "02-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Bengaluru",
+            "id": "142839"
+        },
+        {
+            "match_no": "15",
+            "team1": "Kolkata Knight Riders",
+            "team2": "Sunrisers Hyderabad",
+            "date": "03-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "152748"
+        },
+        {
+            "match_no": "16",
+            "team1": "Lucknow Super Giants",
+            "team2": "Mumbai Indians",
+            "date": "04-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Lucknow",
+            "id": "162839"
+        },
+        {
+            "match_no": "17",
+            "team1": "Chennai Super Kings",
+            "team2": "Delhi Capitals",
+            "date": "05-04-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Chennai",
+            "id": "172849"
+        },
+        {
+            "match_no": "18",
+            "team1": "Punjab Kings",
+            "team2": "Rajasthan Royals",
+            "date": "06-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "New Chandigarh",
+            "id": "182937"
+        },
+        {
+            "match_no": "19",
+            "team1": "Kolkata Knight Riders",
+            "team2": "Lucknow Super Giants",
+            "date": "06-04-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "192837"
+        },
+        {
+            "match_no": "20",
+            "team1": "Sunrisers Hyderabad",
+            "team2": "Gujarat Titans",
+            "date": "06-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "202938"
+        },
+        {
+            "match_no": "21",
+            "team1": "Mumbai Indians",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "07-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Mumbai",
+            "id": "212839"
+        },
+        {
+            "match_no": "22",
+            "team1": "Punjab Kings",
+            "team2": "Chennai Super Kings",
+            "date": "08-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "New Chandigarh",
+            "id": "222938"
+        },
+        {
+            "match_no": "23",
+            "team1": "Gujarat Titans",
+            "team2": "Rajasthan Royals",
+            "date": "09-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Ahmedabad",
+            "id": "232839"
+        },
+        {
+            "match_no": "24",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Delhi Capitals",
+            "date": "10-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Bengaluru",
+            "id": "242938"
+        },
+        {
+            "match_no": "25",
+            "team1": "Chennai Super Kings",
+            "team2": "Kolkata Knight Riders",
+            "date": "11-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Chennai",
+            "id": "252839"
+        },
+        {
+            "match_no": "26",
+            "team1": "Lucknow Super Giants",
+            "team2": "Gujarat Titans",
+            "date": "12-04-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Lucknow",
+            "id": "262938"
+        },
+        {
+            "match_no": "27",
+            "team1": "Sunrisers Hyderabad",
+            "team2": "Punjab Kings",
+            "date": "12-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "272839"
+        },
+        {
+            "match_no": "28",
+            "team1": "Rajasthan Royals",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "13-04-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Jaipur",
+            "id": "282938"
+        },
+        {
+            "match_no": "29",
+            "team1": "Delhi Capitals",
+            "team2": "Mumbai Indians",
+            "date": "13-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Delhi",
+            "id": "292839"
+        },
+        {
+            "match_no": "30",
+            "team1": "Lucknow Super Giants",
+            "team2": "Chennai Super Kings",
+            "date": "14-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Lucknow",
+            "id": "302938"
+        },
+        {
+            "match_no": "31",
+            "team1": "Punjab Kings",
+            "team2": "Kolkata Knight Riders",
+            "date": "15-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "New Chandigarh",
+            "id": "312839"
+        },
+        {
+            "match_no": "32",
+            "team1": "Delhi Capitals",
+            "team2": "Rajasthan Royals",
+            "date": "16-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Delhi",
+            "id": "322938"
+        },
+        {
+            "match_no": "33",
+            "team1": "Mumbai Indians",
+            "team2": "Sunrisers Hyderabad",
+            "date": "17-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Mumbai",
+            "id": "332839"
+        },
+        {
+            "match_no": "34",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Punjab Kings",
+            "date": "18-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Bengaluru",
+            "id": "342938"
+        },
+        {
+            "match_no": "35",
+            "team1": "Gujarat Titans",
+            "team2": "Delhi Capitals",
+            "date": "19-04-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Ahmedabad",
+            "id": "352839"
+        },
+        {
+            "match_no": "36",
+            "team1": "Rajasthan Royals",
+            "team2": "Lucknow Super Giants",
+            "date": "19-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Jaipur",
+            "id": "362938"
+        },
+        {
+            "match_no": "37",
+            "team1": "Punjab Kings",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "20-04-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "New Chandigarh",
+            "id": "372839"
+        },
+        {
+            "match_no": "38",
+            "team1": "Mumbai Indians",
+            "team2": "Chennai Super Kings",
+            "date": "20-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Mumbai",
+            "id": "382938"
+        },
+        {
+            "match_no": "39",
+            "team1": "Kolkata Knight Riders",
+            "team2": "Gujarat Titans",
+            "date": "21-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "392839"
+        },
+        {
+            "match_no": "40",
+            "team1": "Lucknow Super Giants",
+            "team2": "Delhi Capitals",
+            "date": "22-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Lucknow",
+            "id": "402938"
+        },
+        {
+            "match_no": "41",
+            "team1": "Sunrisers Hyderabad",
+            "team2": "Mumbai Indians",
+            "date": "23-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "412839"
+        },
+        {
+            "match_no": "42",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Rajasthan Royals",
+            "date": "24-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Bengaluru",
+            "id": "422938"
+        },
+        {
+            "match_no": "43",
+            "team1": "Chennai Super Kings",
+            "team2": "Sunrisers Hyderabad",
+            "date": "25-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Chennai",
+            "id": "432839"
+        },
+        {
+            "match_no": "44",
+            "team1": "Kolkata Knight Riders",
+            "team2": "Punjab Kings",
+            "date": "26-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "442938"
+        },
+        {
+            "match_no": "45",
+            "team1": "Mumbai Indians",
+            "team2": "Lucknow Super Giants",
+            "date": "27-04-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Mumbai",
+            "id": "452839"
+        },
+        {
+            "match_no": "46",
+            "team1": "Delhi Capitals",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "27-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Delhi",
+            "id": "462938"
+        },
+        {
+            "match_no": "47",
+            "team1": "Rajasthan Royals",
+            "team2": "Gujarat Titans",
+            "date": "28-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Jaipur",
+            "id": "472839"
+        },
+        {
+            "match_no": "48",
+            "team1": "Delhi Capitals",
+            "team2": "Kolkata Knight Riders",
+            "date": "29-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Delhi",
+            "id": "482938"
+        },
+        {
+            "match_no": "49",
+            "team1": "Chennai Super Kings",
+            "team2": "Punjab Kings",
+            "date": "30-04-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Chennai",
+            "id": "492839"
+        },
+        {
+            "match_no": "50",
+            "team1": "Rajasthan Royals",
+            "team2": "Mumbai Indians",
+            "date": "01-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Jaipur",
+            "id": "502938"
+        },
+        {
+            "match_no": "51",
+            "team1": "Gujarat Titans",
+            "team2": "Sunrisers Hyderabad",
+            "date": "02-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Ahmedabad",
+            "id": "512839"
+        },
+        {
+            "match_no": "52",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Chennai Super Kings",
+            "date": "03-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Bengaluru",
+            "id": "522938"
+        },
+        {
+            "match_no": "53",
+            "team1": "Kolkata Knight Riders",
+            "team2": "Rajasthan Royals",
+            "date": "04-05-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "532839"
+        },
+        {
+            "match_no": "54",
+            "team1": "Punjab Kings",
+            "team2": "Lucknow Super Giants",
+            "date": "05-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Dharamsala",
+            "id": "542938"
+        },
+        {
+            "match_no": "55",
+            "team1": "Sunrisers Hyderabad",
+            "team2": "Delhi Capitals",
+            "date": "06-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "552839"
+        },
+        {
+            "match_no": "56",
+            "team1": "Mumbai Indians",
+            "team2": "Gujarat Titans",
+            "date": "07-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Mumbai",
+            "id": "562938"
+        },
+        {
+            "match_no": "57",
+            "team1": "Kolkata Knight Riders",
+            "team2": "Chennai Super Kings",
+            "date": "08-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "572839"
+        },
+        {
+            "match_no": "58",
+            "team1": "Punjab Kings",
+            "team2": "Delhi Capitals",
+            "date": "09-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Dharamsala",
+            "id": "582938"
+        },
+        {
+            "match_no": "59",
+            "team1": "Lucknow Super Giants",
+            "team2": "Royal Challengers Bengaluru",
+            "date": "10-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Lucknow",
+            "id": "592839"
+        },
+        {
+            "match_no": "60",
+            "team1": "Sunrisers Hyderabad",
+            "team2": "Kolkata Knight Riders",
+            "date": "11-05-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "602938"
+        },
+        {
+            "match_no": "61",
+            "team1": "Punjab Kings",
+            "team2": "Mumbai Indians",
+            "date": "12-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Dharamsala",
+            "id": "612839"
+        },
+        {
+            "match_no": "62",
+            "team1": "Delhi Capitals",
+            "team2": "Gujarat Titans",
+            "date": "13-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Delhi",
+            "id": "622938"
+        },
+        {
+            "match_no": "63",
+            "team1": "Chennai Super Kings",
+            "team2": "Rajasthan Royals",
+            "date": "14-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Chennai",
+            "id": "632839"
+        },
+        {
+            "match_no": "64",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Sunrisers Hyderabad",
+            "date": "15-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Bengaluru",
+            "id": "642938"
+        },
+        {
+            "match_no": "65",
+            "team1": "Gujarat Titans",
+            "team2": "Lucknow Super Giants",
+            "date": "16-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Ahmedabad",
+            "id": "652839"
+        },
+        {
+            "match_no": "66",
+            "team1": "Mumbai Indians",
+            "team2": "Delhi Capitals",
+            "date": "17-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Mumbai",
+            "id": "662938"
+        },
+        {
+            "match_no": "67",
+            "team1": "Rajasthan Royals",
+            "team2": "Punjab Kings",
+            "date": "18-05-2025",
+            "start_time": "15:30",
+            "end_time": "23:59",
+            "venue": "Jaipur",
+            "id": "672839"
+        },
+        {
+            "match_no": "68",
+            "team1": "Royal Challengers Bengaluru",
+            "team2": "Kolkata Knight Riders",
+            "date": "19-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Bengaluru",
+            "id": "682938"
+        },
+        {
+            "match_no": "69",
+            "team1": "Gujarat Titans",
+            "team2": "Chennai Super Kings",
+            "date": "20-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Ahmedabad",
+            "id": "692839"
+        },
+        {
+            "match_no": "70",
+            "team1": "Lucknow Super Giants",
+            "team2": "Sunrisers Hyderabad",
+            "date": "21-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Lucknow",
+            "id": "702938"
+        },
+        {
+            "match_no": "71",
+            "team1": "TBD",
+            "team2": "TBD",
+            "date": "23-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "712839"
+        },
+        {
+            "match_no": "72",
+            "team1": "TBD",
+            "team2": "TBD",
+            "date": "25-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "722938"
+        },
+        {
+            "match_no": "73",
+            "team1": "TBD",
+            "team2": "TBD",
+            "date": "26-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Hyderabad",
+            "id": "732839"
+        },
+        {
+            "match_no": "74",
+            "team1": "TBD",
+            "team2": "TBD",
+            "date": "27-05-2025",
+            "start_time": "19:30",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "742938"
+        }
+    ]
+}
