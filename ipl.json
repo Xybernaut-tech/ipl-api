@@ -1,4 +1,46 @@
 {
+    "flags": [
+        {
+            "name": "Royal Challengers Bengaluru",
+            "img": "https://i.ibb.co/N2CnXrcS/RCB.jpg"
+        },
+        {
+            "name": "Kolkata Knight Riders",
+            "img": "https://i.ibb.co/p6z5YM26/KKR.jpg"
+        },
+        {
+            "name": "Sunrisers Hyderabad",
+            "img": "https://i.ibb.co/D0vkWY0/SRH.jpg"
+        },
+        {
+            "name": "Rajasthan Royals",
+            "img": "https://i.ibb.co/wh4wz6dF/RR.jpg"
+        },
+        {
+            "name": "Chennai Super Kings",
+            "img": "https://i.ibb.co/1JXP6vP5/CSK.jpg"
+        },
+        {
+            "name": "Mumbai Indians",
+            "img": "https://i.ibb.co/Txn783Qc/MI.jpg"
+        },
+        {
+            "name": "Delhi Capitals",
+            "img": "https://i.ibb.co/xtHtm2Pj/DC.jpg"
+        },
+        {
+            "name": "Lucknow Super Giants",
+            "img": "https://i.ibb.co/3X1zhT8/LSG.jpg"
+        },
+        {
+            "name": "Gujarat Titans",
+            "img": "https://i.ibb.co/VpHPdCgd/GT.jpg"
+        },
+        {
+            "name": "Punjab Kings",
+            "img": "https://i.ibb.co/KxcP08MW/PBKS.jpg"
+        }
+    ]
     "matches": [
         {
             "match_no": "1",
