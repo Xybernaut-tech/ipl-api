@@ -1,7 +1,7 @@
 {
     "name": "Champions Trophy Live match Data in Json",
     "telegram": "https://t.me/axtream_bingewav",
-    "channels": "tsport, astro, jc-18, jc-18w, wpl, willow-ios, star-hindi, star-1h, sscricket, star-english, skycric",
+    "channels": "tsport, wpl, jc-18, jc-18w, willow-ios, star-hindi, star-1h, sscricket, star-english, skycric",
     "matches": [
         {
             "match_no": "1",
