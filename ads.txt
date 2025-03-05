@@ -1,2 +1,2 @@
-#poster img=""
-#link url=""
+#poster img="https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png"
+#link url="https://t.me/binge_adsbot"
