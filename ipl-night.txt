@@ -1,6 +1,0 @@
-#lang id="Hindi" m3u8="https://cdn.pixabay.com/video/2020/08/23/47902-452168399_large.mp4"
-#lang id="English" m3u8="https://cdn.pixabay.com/video/2016/09/22/5628-183849390_large.mp4"
-
-#angle name="Main Cam" m3u8="https://cdn.pixabay.com/video/2016/05/12/3178-166339003_large.mp4"
-#angle name="Spidy Cam" m3u8="https://cdn.pixabay.com/video/2019/01/04/20454-309694522_large.mp4"
-#angle name="Stump Cam" m3u8="https://cdn.pixabay.com/video/2020/02/27/32945-395456395_large.mp4"
