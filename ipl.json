@@ -780,6 +780,18 @@
             "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
         },
         {
+            "match_no": "74",
+            "team1": "Delhi Capitals",
+            "team2": "Gujrat Titans",
+            "date": "11-05-2025",
+            "start_time": "18:00",
+            "end_time": "23:59",
+            "venue": "Kolkata",
+            "id": "742938",
+            "poster": "https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png",
+            "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
+        }
+        {
             "match_no": "61",
             "team1": "Punjab Kings",
             "team2": "Mumbai Indians",
@@ -923,17 +935,5 @@
             "poster": "https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png",
             "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
         },
-        {
-            "match_no": "74",
-            "team1": "TBD",
-            "team2": "TBD",
-            "date": "27-05-2025",
-            "start_time": "18:00",
-            "end_time": "23:59",
-            "venue": "Kolkata",
-            "id": "742938",
-            "poster": "https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png",
-            "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
-        }
     ]
 }
