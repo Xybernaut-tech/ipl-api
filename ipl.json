@@ -923,17 +923,5 @@
             "poster": "https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png",
             "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
         },
-        {
-            "match_no": "73",
-            "team1": "TBD",
-            "team2": "TBD",
-            "date": "26-05-2025",
-            "start_time": "18:00",
-            "end_time": "23:59",
-            "venue": "Hyderabad",
-            "id": "732839",
-            "poster": "https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png",
-            "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
-        },
-    ]
+        ]
 }
