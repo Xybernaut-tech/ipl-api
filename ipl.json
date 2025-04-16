@@ -43,6 +43,10 @@
         {
             "name": "Punjab Kings",
             "img": "https://i.ibb.co/KxcP08MW/PBKS.jpg"
+        },
+        {
+            "name": "t.me/Axtream_Bingewav",
+            "img": "https://static.vecteezy.com/system/resources/previews/023/986/562/non_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png"
         }
     ],
     "matches": [
@@ -433,8 +437,8 @@
         },
         {
             "match_no": "33",
-            "team1": "Mumbai Indians",
-            "team2": "Sunrisers Hyderabad",
+            "team1": "t.me/Axtream_Bingewav",
+            "team2": "t.me/Axtream_Bingewav",
             "date": "17-04-2025",
             "start_time": "18:00",
             "end_time": "23:59",
