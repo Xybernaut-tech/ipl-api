@@ -456,24 +456,12 @@
             "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
         },
         {
-            "match_no": "34",
-            "team1": "Royal Challengers Bengaluru",
-            "team2": "Punjab Kings",
-            "date": "19-04-2025",
-            "start_time": "00:00",
-            "end_time": "00:59",
-            "venue": "Bengaluru",
-            "id": "3429380",
-            "poster": "https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png",
-            "url": "https://t.me/CreaseConnect_Bot",             "status": "available"
-        },
-        {
             "match_no": "35",
             "team1": "Gujarat Titans",
             "team2": "Delhi Capitals",
             "date": "19-04-2025",
             "start_time": "14:00",
-            "end_time": "23:59",
+            "end_time": "19:59",
             "venue": "Ahmedabad",
             "id": "352839",
             "poster": "https://i.ibb.co/kg7vfFr3/Disinfect-and-Protect.png",
