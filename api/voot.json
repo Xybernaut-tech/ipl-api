@@ -84,27 +84,6 @@
     "catagory": "Entertainment, Regional"
   },
   {
-    "id": "115",
-    "name": "Colors Oriya",
-    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
-    "url": "https://m-six-pi.vercel.app/voot/115.m3u8",
-    "catagory": "Entertainment, Regional"
-  },
-  {
-    "id": "307",
-    "name": "Comedy Central HD",
-    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",
-    "url": "https://m-six-pi.vercel.app/voot/307.m3u8",
-    "catagory": "Leasure"
-  },
-  {
-    "id": "306",
-    "name": "Comedy Central SD",
-    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",
-    "url": "https://m-six-pi.vercel.app/voot/306.m3u8",
-    "catagory": "Leasure"
-  },
-  {
     "id": "187",
     "name": "Colors Infinity HD",
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
@@ -182,32 +161,11 @@
     "catagory": "Music, Leasure"
   },
   {
-    "id": "405",
-    "name": "MTV Beats HD",
-    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
-    "url": "https://m-six-pi.vercel.app/voot/405.m3u8",
-    "catagory": "Music"
-  },
-  {
-    "id": "236",
-    "name": "MTV Beats SD",
-    "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
-    "url": "https://m-six-pi.vercel.app/voot/236.m3u8",
-    "catagory": "Music"
-  },
-  {
     "id": "329",
     "name": "Clubbing TV",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png",
     "url": "https://m-six-pi.vercel.app/voot/329.m3u8",
     "catagory": "Music"
-  },
-  {
-    "id": "539",
-    "name": "VH1 HD",
-    "logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_2/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/VH1%20HD.png",
-    "url": "https://m-six-pi.vercel.app/voot/539.m3u8",
-    "catagory": "Music, English Entertainment, Leasure"
   },
   {
     "id": "433",
