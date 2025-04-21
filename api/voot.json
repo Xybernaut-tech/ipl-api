@@ -88,14 +88,14 @@
     "name": "Colors Infinity HD",
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
     "url": "https://m-six-pi.vercel.app/voot/187.m3u8",
-    "catagory": "English Entertainment"
+    "catagory": "English Entertainment, Entertainment"
   },
   {
     "id": "544",
     "name": "Colors Infinity SD",
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
     "url": "https://m-six-pi.vercel.app/voot/544.m3u8",
-    "catagory": "English Entertainment, Leasure"
+    "catagory": "English Entertainment, Entertainment, Leasure"
   },
   {
     "id": "61",
@@ -116,7 +116,7 @@
     "name": "Colors Cineplex Bollywood",
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
     "url": "https://m-six-pi.vercel.app/voot/1000.m3u8",
-    "catagory": "Movies"
+    "catagory": "Movies, Leasure"
   },
   {
     "id": "533",
@@ -130,21 +130,21 @@
     "name": "Colors Kannada Cinema",
     "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
     "url": "https://m-six-pi.vercel.app/voot/667.m3u8",
-    "catagory": "Movies, Regional"
+    "catagory": "Movies, Leasure, Regional"
   },
   {
     "id": "896",
     "name": "Colors Bangla Cinema",
     "logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_2/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CBC-Logo_2000_X_1125_Transpharent.png",
     "url": "https://m-six-pi.vercel.app/voot/896.m3u8",
-    "catagory": "Movies, Regional"
+    "catagory": "Movies, Regional, Leasure"
   },
   {
     "id": "692",
     "name": "Colors Gujrati Cinema",
     "logo": "https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_2/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CGUC_Poster.png",
     "url": "https://m-six-pi.vercel.app/voot/692.m3u8",
-    "catagory": "Movies, Regional"
+    "catagory": "Movies, Regional, Leasure"
   },
   {
     "id": "406",
@@ -165,7 +165,7 @@
     "name": "Clubbing TV",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png",
     "url": "https://m-six-pi.vercel.app/voot/329.m3u8",
-    "catagory": "Music"
+    "catagory": "Music, Leasure"
   },
   {
     "id": "433",
