@@ -924,6 +924,18 @@
             "url": "https://t.me/CricDynasty",             "status": "available"
         },
         {
+            "match_no": "73",
+            "team1": "Punjab Kings",
+            "team2": "Mumbai Indians",
+            "date": "02-06-2025",
+            "start_time": "00:00",
+            "end_time": "02:59",
+            "venue": "Ahmedabad",
+            "id": "qual2",
+            "poster": "https://i.ibb.co/wFSY2bQH/file-000000002acc61f9bc50b8cc0e735291.png",
+            "url": "https://t.me/CricDynasty",             "status": "available"
+        },
+        {
             "match_no": "74",
             "team1": "Royal Challengers Bengaluru",
             "team2": "TBD",
